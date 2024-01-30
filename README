@@ -1,0 +1,23 @@
+To compile this project -
+1. Download the javac Compilar
+2. Open the command prompt and access your project file using CD command
+3. And run the Dbms.java file using following command 
+   javac Dbms.java
+4. run .class
+5. To test this project we use the following command
+
+* insert into table student values ___ ___ ___ ( 1. name, 2. Age, 3. Marks)
+* select * from student
+* select * from student where rollno = 11
+* select * from student where name = Sagar
+* delete from student where rollno = 3
+* select max marks from student
+* select max  age  from student
+* select min marks from student 
+* select min  age  from student
+* select sum marks from student
+* select sum  age  from student
+* select avg marks from student 
+* select avg  age  from student  
+* select count from student where name = Sagar
+* select count of record from student
